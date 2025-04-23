@@ -6,7 +6,8 @@
 # 🧠 Network Security - Assignment 3 - Simple Python Web Server
 
 This project is part of the **Intro to Socket Programming** assignment.
-The goal is to implement a basic HTTP web server in Python that can handle one client request at a time.
+The goal is to implement a basic HTTP web server in Python that can handle one client request
+at a time.
 
 ---
 
